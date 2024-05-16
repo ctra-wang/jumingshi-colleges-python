@@ -1,0 +1,650 @@
+{
+    "result": [
+        {
+            "dataModeType": 3,
+            "courses": [
+                {
+                    "name": "综合",
+                    "colleges": [
+                        {
+                            "year": 2023,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学(2组)",
+                            "collegeNameText": "清华大学(2组)(09582)(北京)",
+                            "collegeEnrollCode": "09582",
+                            "eduLevel": "本科",
+                            "remark": "北京",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "5",
+                                    "maxScore": "0",
+                                    "minScore": "704",
+                                    "avgScore": "0",
+                                    "minRank": "759",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2023,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学(3组)",
+                            "collegeNameText": "清华大学(3组)(09583)(北京)",
+                            "collegeEnrollCode": "09583",
+                            "eduLevel": "本科",
+                            "remark": "北京",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "29",
+                                    "maxScore": "0",
+                                    "minScore": "703",
+                                    "avgScore": "0",
+                                    "minRank": "759",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2023,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学(4组)",
+                            "collegeNameText": "清华大学(4组)(09584)(北京)",
+                            "collegeEnrollCode": "09584",
+                            "eduLevel": "本科",
+                            "remark": "北京",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "4",
+                                    "maxScore": "0",
+                                    "minScore": "705",
+                                    "avgScore": "0",
+                                    "minRank": "759",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2022,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学2组",
+                            "collegeNameText": "清华大学2组(09582)((北京))",
+                            "collegeEnrollCode": "09582",
+                            "eduLevel": "本科",
+                            "remark": "(北京)",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "5",
+                                    "maxScore": "0",
+                                    "minScore": "708",
+                                    "avgScore": "715",
+                                    "minRank": "79",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2022,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学3组",
+                            "collegeNameText": "清华大学3组(09583)((北京))",
+                            "collegeEnrollCode": "09583",
+                            "eduLevel": "本科",
+                            "remark": "(北京)",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "38",
+                                    "maxScore": "0",
+                                    "minScore": "708",
+                                    "avgScore": "712",
+                                    "minRank": "79",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2022,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学4组",
+                            "collegeNameText": "清华大学4组(09584)((北京))",
+                            "collegeEnrollCode": "09584",
+                            "eduLevel": "本科",
+                            "remark": "(北京)",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "5",
+                                    "maxScore": "0",
+                                    "minScore": "708",
+                                    "avgScore": "711",
+                                    "minRank": "79",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2021,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学2组",
+                            "collegeNameText": "清华大学2组(09582)",
+                            "collegeEnrollCode": "09582",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "3",
+                                    "maxScore": "0",
+                                    "minScore": "721",
+                                    "avgScore": "0",
+                                    "minRank": "25",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2021,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学3组",
+                            "collegeNameText": "清华大学3组(09583)",
+                            "collegeEnrollCode": "09583",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "41",
+                                    "maxScore": "0",
+                                    "minScore": "714",
+                                    "avgScore": "0",
+                                    "minRank": "78",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2021,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学4组",
+                            "collegeNameText": "清华大学4组(09584)",
+                            "collegeEnrollCode": "09584",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "4",
+                                    "maxScore": "0",
+                                    "minScore": "714",
+                                    "avgScore": "0",
+                                    "minRank": "78",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2020,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(09582)",
+                            "collegeEnrollCode": "09582",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "4",
+                                    "maxScore": "0",
+                                    "minScore": "710",
+                                    "avgScore": "717",
+                                    "minRank": "213",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2020,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(09583)",
+                            "collegeEnrollCode": "09583",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "37",
+                                    "maxScore": "0",
+                                    "minScore": "708",
+                                    "avgScore": "712",
+                                    "minRank": "213",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        },
+                        {
+                            "year": 2020,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(09584)",
+                            "collegeEnrollCode": "09584",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "3",
+                                    "maxScore": "0",
+                                    "minScore": "711",
+                                    "avgScore": "713",
+                                    "minRank": "213",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "综合"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dataModeType": 1,
+            "courses": [
+                {
+                    "name": "理科",
+                    "colleges": [
+                        {
+                            "year": 2019,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0958)",
+                            "collegeEnrollCode": "0958",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "39",
+                                    "maxScore": "718",
+                                    "minScore": "696",
+                                    "avgScore": "702",
+                                    "minRank": "81",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        },
+                        {
+                            "year": 2018,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0958)",
+                            "collegeEnrollCode": "0958",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "37",
+                                    "maxScore": "703",
+                                    "minScore": "693",
+                                    "avgScore": "697",
+                                    "minRank": "53",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        },
+                        {
+                            "year": 2017,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0958)",
+                            "collegeEnrollCode": "0958",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "31",
+                                    "maxScore": "699",
+                                    "minScore": "685",
+                                    "avgScore": "690",
+                                    "minRank": "46",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        },
+                        {
+                            "year": 2016,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0973)",
+                            "collegeEnrollCode": "0973",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "26",
+                                    "maxScore": "706",
+                                    "minScore": "689",
+                                    "avgScore": "695",
+                                    "minRank": "48",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        },
+                        {
+                            "year": 2015,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0973)",
+                            "collegeEnrollCode": "0973",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "30",
+                                    "maxScore": "706",
+                                    "minScore": "686",
+                                    "avgScore": "691",
+                                    "minRank": "40",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        },
+                        {
+                            "year": 2014,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学",
+                            "collegeEnrollCode": "",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "33",
+                                    "maxScore": "716",
+                                    "minScore": "686",
+                                    "avgScore": "697",
+                                    "minRank": "48",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        },
+                        {
+                            "year": 2013,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学",
+                            "collegeEnrollCode": "",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "35",
+                                    "maxScore": "716",
+                                    "minScore": "682",
+                                    "avgScore": "692",
+                                    "minRank": "54",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        },
+                        {
+                            "year": 2012,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学",
+                            "collegeEnrollCode": "",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "39",
+                                    "maxScore": "730",
+                                    "minScore": "698",
+                                    "avgScore": "705",
+                                    "minRank": "0",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "理科"
+                        }
+                    ]
+                },
+                {
+                    "name": "文科",
+                    "colleges": [
+                        {
+                            "year": 2019,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0958)",
+                            "collegeEnrollCode": "0958",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "1",
+                                    "maxScore": "656",
+                                    "minScore": "656",
+                                    "avgScore": "656",
+                                    "minRank": "8",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        },
+                        {
+                            "year": 2018,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0958)",
+                            "collegeEnrollCode": "0958",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本科A",
+                                    "enterNum": "1",
+                                    "maxScore": "676",
+                                    "minScore": "676",
+                                    "avgScore": "676",
+                                    "minRank": "10",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        },
+                        {
+                            "year": 2017,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0958)",
+                            "collegeEnrollCode": "0958",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "1",
+                                    "maxScore": "665",
+                                    "minScore": "665",
+                                    "avgScore": "665",
+                                    "minRank": "2",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        },
+                        {
+                            "year": 2016,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0973)",
+                            "collegeEnrollCode": "0973",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "2",
+                                    "maxScore": "679",
+                                    "minScore": "657",
+                                    "avgScore": "666",
+                                    "minRank": "13",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        },
+                        {
+                            "year": 2015,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学(0973)",
+                            "collegeEnrollCode": "0973",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "3",
+                                    "maxScore": "684",
+                                    "minScore": "664",
+                                    "avgScore": "670",
+                                    "minRank": "10",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        },
+                        {
+                            "year": 2014,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学",
+                            "collegeEnrollCode": "",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "4",
+                                    "maxScore": "673",
+                                    "minScore": "653",
+                                    "avgScore": "665",
+                                    "minRank": "24",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        },
+                        {
+                            "year": 2013,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学",
+                            "collegeEnrollCode": "",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "5",
+                                    "maxScore": "669",
+                                    "minScore": "664",
+                                    "avgScore": "667",
+                                    "minRank": "15",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        },
+                        {
+                            "year": 2012,
+                            "collegeName": "清华大学",
+                            "collegeSourceName": "清华大学",
+                            "collegeNameText": "清华大学",
+                            "collegeEnrollCode": "",
+                            "eduLevel": "本科",
+                            "remark": "",
+                            "batches": [
+                                {
+                                    "batch": "本一",
+                                    "enterNum": "5",
+                                    "maxScore": "724",
+                                    "minScore": "676",
+                                    "avgScore": "690",
+                                    "minRank": "0",
+                                    "zjText": "",
+                                    "zjTextExplain": ""
+                                }
+                            ],
+                            "course": "文科"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "code": "",
+    "message": "",
+    "fullMessage": "",
+    "timestamp": "2024-05-15T21:27:50.8048819+08:00",
+    "isSuccess": true
+}
